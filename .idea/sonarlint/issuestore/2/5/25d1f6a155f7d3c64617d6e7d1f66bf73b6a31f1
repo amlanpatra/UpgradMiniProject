@@ -1,0 +1,20 @@
+
+ˆ
+java:S4165"fRemove this useless assignment; "filePath" already holds the assigned value along all execution paths.(¯¶¨ùÿÿÿÿ8ŠÄŸ†õ0
+P
+java:S1172"3Remove this unused method parameter "taskFilePath".(íÆªë8ŒÄŸ†õ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•­Äˆıÿÿÿÿ8ÄŸ†õ0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¼ëÍÏøÿÿÿÿ8‘ÄŸ†õ0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÀÔƒ«ÿÿÿÿÿ8‘ÄŸ†õ0
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(èÌ÷‘úÿÿÿÿ8’ÄŸ†õ0
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(–Î¼Á8ÄË¡†õ0
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8«Ÿğ†õ0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(êËÏ€ûÿÿÿÿ8Æò†õ0
+Q
+java:S1656"/Remove or correct this useless self-assignment.(¯¶¨ùÿÿÿÿ8’ÄŸ†õ0
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8úÃï†õ0
+[
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8úÃï†õ0
+R
+java:S11448"5Remove this unused private "loadFileAsString" method.(ö¬×¬8’ÄŸ†õ0

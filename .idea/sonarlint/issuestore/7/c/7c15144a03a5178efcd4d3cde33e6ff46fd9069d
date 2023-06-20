@@ -1,0 +1,28 @@
+
+M
+java:S3740”"/Provide the parametrized type for this generic.(ıÔù„8ÔòÑ‰õ0
+]	java:S125"<This block of commented-out lines of code should be removed.(½ÀÁøÿÿÿÿ8ùòÑ‰õ0
+]	java:S125"<This block of commented-out lines of code should be removed.(ñĞòÿÿÿÿÿ8ùòÑ‰õ0
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(»ÌÕë8şòÑ‰õ0
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(½¬±‰şÿÿÿÿ8şòÑ‰õ0
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(£ˆş¹ıÿÿÿÿ8ÿòÑ‰õ0
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(¦…œ§şÿÿÿÿ8€óÑ‰õ0
+T	java:S106X"9Replace this use of System.out or System.err by a logger.(ğ÷†T8óÑ‰õ0
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(çÖª8óÑ‰õ0
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ƒæ«®ÿÿÿÿÿ8‚óÑ‰õ0
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(ì¡Âè8ƒóÑ‰õ0
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(ğºæúÿÿÿÿ8ƒóÑ‰õ0
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.( ƒÇüÿÿÿÿ8ƒóÑ‰õ0
+B
+java:S2129s" Remove this "String" constructor(è¹Ë¯øÿÿÿÿ8„óÑ‰õ0
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(­•Ì8…óÑ‰õ0
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(¡‰¹–øÿÿÿÿ8†óÑ‰õ0
+V	java:S106‹"9Replace this use of System.out or System.err by a logger.(¸†–¶8ˆóÑ‰õ0
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(å¤ğŒüÿÿÿÿ8ˆóÑ‰õ0
+^	java:S125"<This block of commented-out lines of code should be removed.(ú®¢Íüÿÿÿÿ8ˆóÑ‰õ0
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(ÏÊøİ8ˆóÑ‰õ0
+^	java:S125“"<This block of commented-out lines of code should be removed.(‚¯Ÿşÿÿÿÿ8‰óÑ‰õ0
+H
+java:S1197˜"*Move the array designators [] to the type.(Š¡Õ‡8‰óÑ‰õ0
+Y	java:S125™"<This block of commented-out lines of code should be removed.(Ö´Ş¹8ŠóÑ‰õ0
+^	java:S125"<This block of commented-out lines of code should be removed.(ïÁÍÑùÿÿÿÿ8ŠóÑ‰õ0
